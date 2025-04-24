@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+langchain
+vosk
+pyaudio
+pydub
+gTTS
+torch
+transformers
+streamlit
